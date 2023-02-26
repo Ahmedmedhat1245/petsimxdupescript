@@ -1,2 +1,0 @@
-# petsimxdupescript
-Hiii
